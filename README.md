@@ -15,7 +15,7 @@ Intended Frameworks and Libraries: <br />
     - AJAX <br />
     - JQuery <br />
     - Bootstrap <br />
-    - React.s <br />
+    - React.js <br />
     - Facebook Login API <br />
     - Google Login API <br />
     - Node.js <br />
