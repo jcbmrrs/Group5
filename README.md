@@ -9,6 +9,7 @@ Group Roles: </br>
     2. Siddarth =>   Front-End Dev<br />
     3. Nelson   =>   Back-End Dev<br />
     4. Jay      =>   Front-End Dev<br />
+    
 Intended Frameworks and Libraries: <br />
     - HTML/CSS <br />
     - Javascript <br />
