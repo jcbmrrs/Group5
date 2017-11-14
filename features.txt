@@ -1,0 +1,24 @@
+Possible name for the project: kryptlett (Cryptocurrency Wallet)
+
+Possible Features to Add:
+
+1. Email News Alerts => powered by Google News API and MailChimp API
+2. User accounts (So they can sign in and add cryptocurrencies to their portfolio) => powered by Firebase
+3. Column by column comparison of Cryptocurrencies => Powered by CryptoCurrency API (possibly https://coinmarketcap.com/api/) and Bootstrap Column layout
+4. Search => Powered by Google Custom Search (easiest option)
+
+Page Layout: |(one vertical represents a button) ||(two verticals represents a tab) |||(three verticals represents a page)
+
+Index
+|		|		|		|		|		|
+|		|		|		|		|		|
+|		|		|		|		|		|
+Sign Up 	Sign In		About		Contact Us	Donate BTC	FAQ
+|		|
+|		|
+|		|
+Verify		Index of Cryptocurrencies
+		|			|
+		|			|
+		|			|
+		
