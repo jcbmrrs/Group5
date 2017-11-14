@@ -2,7 +2,13 @@
 INFO 343 Autumn 2017 Group 5
 
 Product: <br/>
-    Our team will build a CryptoCurrency Tracker for differnet types of Cryptocurrencies on the market. It will list the top 100 CryptoCurrencies by Market Caps. Users can click on the link of the currecny and get more information. Users can also compare cryptocurrencies to make the best investment.
+    Our project is a cryptocurrency tracker for the different kinds of cryptocurrencies on the market. It will list the top 100 cryptocurrencies by market capitalization.
+
+    What we offer to our users:
+    * Users will be able to create an account to allow them to track and manage their cryptocurrency portfolio
+    * Users are able to compare different cryptocurrencies
+    * Users are able to view real time data on the market value of cryptocurrencies
+    * Users can subscribe to an email notification on certain currencies regarding any sort of anomalies
 
 Group Roles: </br>
     1. Jarod    =>   PM/Design<br />
@@ -20,3 +26,5 @@ Intended Frameworks and Libraries: <br />
     - Facebook Login API <br />
     - Google Login API <br />
     - Node.js <br />
+
+
