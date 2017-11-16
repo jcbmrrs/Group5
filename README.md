@@ -2,7 +2,7 @@
 INFO 343 Autumn 2017 Group 5
 
 Product: <br/>
-    Our project is a cryptocurrency tracker for the different kinds of cryptocurrencies on the market. It will list the top 100 cryptocurrencies by market capitalization.
+    Our project is a cryptocurrency tracker for the different kinds of cryptocurrencies on the market. It will list known cryptocurrencies by market capitalization.
 
     What we offer to our users:
     * Users will be able to create an account to allow them to track and manage their cryptocurrency portfolio
